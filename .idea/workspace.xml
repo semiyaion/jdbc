@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e497d11-a7f2-4ec5-8f4c-dcd0ebca5be0" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/HikariCP_4_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/HikariCP_5_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/druid_1_2_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/druid_1_2_18_javadoc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_26__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/slf4j_api_2_0_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/slf4j_api_2_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jbdc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/HikariCP-5.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/druid-1.2.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.26.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/slf4j-api-2.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/hikari.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jdbc/advcanced/ORMDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jdbc/advcanced/primkey/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jdbc/advcanced/projo/UserMoney.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jdbc/advcanced/threadpoll/DruidTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jdbc/advcanced/threadpoll/HikariDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jdbc/base/JDBCInjection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jdbc/base/JDBCPre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jdbc/base/JDBCoperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jdbc/base/JDBCtest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jdbc/senior/util/JDBCTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jdbc/senior/util/JDBCUtil.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2p07kJvR4xZXYvp4gKlNZRH51qb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/javaxl/jbdc/lib&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\javaxl\jbdc\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.JDBCTest.test">
+    <configuration name="DruidTest.Test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jbdc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdbc.advcanced.threadpoll.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jdbc.advcanced.threadpoll" />
+      <option name="MAIN_CLASS_NAME" value="jdbc.advcanced.threadpoll.DruidTest" />
+      <option name="METHOD_NAME" value="Test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DruidTest.Test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jbdc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdbc.advcanced.threadpoll.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jdbc.advcanced.threadpoll" />
+      <option name="MAIN_CLASS_NAME" value="jdbc.advcanced.threadpoll.DruidTest" />
+      <option name="METHOD_NAME" value="Test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HikariDemo.Test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jbdc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdbc.advcanced.threadpoll.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jdbc.advcanced.threadpoll" />
+      <option name="MAIN_CLASS_NAME" value="jdbc.advcanced.threadpoll.HikariDemo" />
+      <option name="METHOD_NAME" value="Test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HikariDemo.Test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jbdc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdbc.advcanced.threadpoll.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jdbc.advcanced.threadpoll" />
+      <option name="MAIN_CLASS_NAME" value="jdbc.advcanced.threadpoll.HikariDemo" />
+      <option name="METHOD_NAME" value="Test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBCTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jbdc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdbc.senior.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jdbc.senior.util" />
+      <option name="MAIN_CLASS_NAME" value="jdbc.senior.util.JDBCTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JDBCTest.test" />
+        <item itemvalue="JUnit.HikariDemo.Test02" />
+        <item itemvalue="JUnit.HikariDemo.Test01" />
+        <item itemvalue="JUnit.DruidTest.Test02" />
+        <item itemvalue="JUnit.DruidTest.Test01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="5e497d11-a7f2-4ec5-8f4c-dcd0ebca5be0" name="更改" comment="" />
+      <created>1731891282023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731891282023</updated>
+      <workItem from="1731891283270" duration="10117000" />
+      <workItem from="1731904214110" duration="13574000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
